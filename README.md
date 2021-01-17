@@ -5,7 +5,7 @@ Step 1 - Git Clone repo
 Step 2 - Open Bash Terminal to access the git repo
 Step 3 - Open docker-compose.yaml file and update the product-service - volumes - source tag to sample Folder path on your machine. 
 		 This will map you local file directory to directory on the container.
-		 Example change "/c/sample-data" to Folder path on your machine
+		 Example change "/c/sample-data" to [Your Folder Location]:/app/data/
 		 product-service:    
 			depends_on:
 			  - db
