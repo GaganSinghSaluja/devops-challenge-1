@@ -3,10 +3,13 @@ Steps to build, Run and validate the Solution
 
 Step 1 - Open Bash Terminal to access the git repo
 Step 2 - git clone https://github.com/GaganSinghSaluja/devops-challenge-1.git
+
+PLEASE Note - Application will not show any output if the folder location is not update in 		 docker-compose.yaml as stated in step 3
+
 Step 3 - Open docker-compose.yaml file and update the product-service - volumes - source tag to sample Folder path on your machine. 
 		 This will map you local file directory to directory on the container.
 		 Example change "/c/sample-data" to [Your Folder Location]:/app/data/
-		 Default sample file location bunningtechapp/data
+		 Sample file can be found under bunningtechapp/data location
 		 product-service:    
 			depends_on:
 			  - db
