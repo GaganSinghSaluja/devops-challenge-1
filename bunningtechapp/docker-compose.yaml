@@ -1,0 +1,26 @@
+version: '3.3'
+services:
+  product-service:    
+    depends_on:
+      - db
+    networks:
+      - products
+    build:
+      context: ./  
+    volumes: 
+      - /c/sample-data:/app/data  
+    command: ["/app/wait-for-it.sh", "db:8002", "--", "dotnet", "/app/bunningtech-app.dll"]
+  db:
+    build:
+      context: ./mysql-db   
+    restart: always 
+    command: --default-authentication-plugin=mysql_native_password  
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - "MYSQL_DATABASE=product"
+    networks:
+      - products
+    ports:
+      - 8002:3306
+networks:
+  products:

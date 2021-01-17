@@ -1,0 +1,15 @@
+C:\Users\gagan\bunningtechapp\ProcessFile\bin\Debug\net5.0\ProcessFile.deps.json
+C:\Users\gagan\bunningtechapp\ProcessFile\bin\Debug\net5.0\ProcessFile.dll
+C:\Users\gagan\bunningtechapp\ProcessFile\bin\Debug\net5.0\ref\ProcessFile.dll
+C:\Users\gagan\bunningtechapp\ProcessFile\bin\Debug\net5.0\ProcessFile.pdb
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.csprojAssemblyReference.cache
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.AssemblyInfoInputs.cache
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.AssemblyInfo.cs
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.csproj.CoreCompileInputs.cache
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.dll
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ref\ProcessFile.dll
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.pdb
+C:\Users\gagan\bunningtechapp\ProcessFile\bin\Debug\net5.0\processfile.data.dll
+C:\Users\gagan\bunningtechapp\ProcessFile\bin\Debug\net5.0\processfile.data.pdb
+C:\Users\gagan\bunningtechapp\ProcessFile\obj\Debug\net5.0\ProcessFile.csproj.CopyComplete

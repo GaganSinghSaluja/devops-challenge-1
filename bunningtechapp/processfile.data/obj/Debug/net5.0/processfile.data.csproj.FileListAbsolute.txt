@@ -1,0 +1,12 @@
+C:\Users\gagan\bunningtechapp\processfile.data\bin\Debug\net5.0\processfile.data.deps.json
+C:\Users\gagan\bunningtechapp\processfile.data\bin\Debug\net5.0\processfile.data.dll
+C:\Users\gagan\bunningtechapp\processfile.data\bin\Debug\net5.0\ref\processfile.data.dll
+C:\Users\gagan\bunningtechapp\processfile.data\bin\Debug\net5.0\processfile.data.pdb
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.csprojAssemblyReference.cache
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.AssemblyInfoInputs.cache
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.AssemblyInfo.cs
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.csproj.CoreCompileInputs.cache
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.dll
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\ref\processfile.data.dll
+C:\Users\gagan\bunningtechapp\processfile.data\obj\Debug\net5.0\processfile.data.pdb
