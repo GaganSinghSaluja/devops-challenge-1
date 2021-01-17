@@ -14,7 +14,7 @@ namespace bunningtech_app
         {
 
             //Mounted Volume path on the Container
-            // app/bunningtech-app/data/
+            // [Your Folder Location]:/app/data/
          
 
             try
@@ -25,8 +25,8 @@ namespace bunningtech_app
                 Console.WriteLine("Hello from Docker Compose");
 
                 ProcessFile pf = new ProcessFile();
-                pf.ProcessJSONFiles(sourcePath, targetPath);            
-                    
+               pf.ProcessJSONFiles(sourcePath, targetPath);          
+                
                 
 
             }
